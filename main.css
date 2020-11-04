@@ -1,0 +1,31 @@
+header {
+    background-color: blanchedalmond;
+    font-size: 60pt;
+}
+
+body {
+    background-color: aqua;
+}
+
+h1 {
+    display: inline-block;
+    text-decoration-style: double;
+    font-size: 80pt;
+    float: left;
+    }
+
+img {
+    display: inline-block;
+    width: 400pt;
+    height: 400 pt;
+    float: left;
+}
+
+div {
+    margin: none;
+}
+
+h2 {
+    font-size: 50pt;
+    margin: none;
+}
